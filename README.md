@@ -1,4 +1,3 @@
-<body style="background-color: black;">
 # Easy Flutter Redux setup
 
 A super simple flutter redux example
@@ -20,10 +19,7 @@ git clone the code.
 Start the emulator for android or iOS and you're ready to rock.
 
 <br>
-
 ## YouTube & Medium article
-
-<hr>
 
 <footer >
   <p><br>
