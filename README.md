@@ -1,8 +1,8 @@
 # Easy Flutter Redux setup
 
-A super simple flutter redux example
-
 # Preview
+
+Basically the project gets you up and running with redux. This code belongs to a tutorial to show people how to get started with redux. The tutorial links are at the bottom of this page.
 
 <div style="display: grid;grid-template-columns: auto auto;">
 
@@ -19,7 +19,10 @@ git clone the code.
 Start the emulator for android or iOS and you're ready to rock.
 
 <br>
+
 ## YouTube & Medium article
+
+Here is a YouTube video and medium article to help you understand his code
 
 <footer >
   <p><br>
